@@ -1,0 +1,35 @@
+_repo: The-Dramatic-Works-of-Gerhart-HauptmannVolume-I_9971
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hauptmann, Gerhart
+    alias: Hauptmann, Gerhart Johann Robert
+    birthdate: 1862
+    deathdate: 1946
+    gutenberg_agent_id: '3226'
+    url: http://www.gutenberg.org/2009/agents/3226
+    wikipedia: http://en.wikipedia.org/wiki/Gerhart_Hauptmann
+  editor:
+    agent_name: Lewisohn, Ludwig
+    birthdate: 1882
+    deathdate: 1955
+    gutenberg_agent_id: '4904'
+    url: http://www.gutenberg.org/2009/agents/4904
+    wikipedia: http://en.wikipedia.org/wiki/Ludwig_Lewisohn
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9971'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German drama -- Translations into English'
+- GITenberg
+title: 'The Dramatic Works of Gerhart Hauptmann
+
+  Volume I'
+url: http://www.gutenberg.org/ebooks/9971
